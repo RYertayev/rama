@@ -1,0 +1,251 @@
+@media (max-width: 658px) {
+.wall {
+	position: relative;
+	width: 1573px;
+	height: 690px; 
+	flex: auto;
+}
+.logo {
+	left: 91px;
+}
+.header-logo {
+	left: 160px;
+	font-size: 40px;
+}
+
+/*.first-line{
+	position: relative;
+    width: 35px;
+    height: 5px;
+    background-color: white;
+    margin: 6px 0;
+	left: 91px;
+    top: 100px;
+} 
+.second-line {
+    position: relative;
+    width: 35px;
+    height: 5px;
+    background-color: white;
+    margin: 6px 0;
+    left: 91px;
+    top: 101px;
+}
+.last-line {
+	position: relative;
+    width: 35px; 
+    height: 5px;
+    background-color: white;
+    margin: 6px 0;
+    left: 91px;
+    top: 102px;
+}*/
+.nav-link {
+	position: relative;
+	left: 0px;
+	top: 10px;
+}
+.nav-link:hover:after {
+	display: none;
+}
+.topnav {
+  position: relative;
+  background-color: #335;
+}
+.topnav a  {
+  color: white;
+  padding: 14px 16px; 
+  font-size: 17px;
+  display: block;
+  height: 70px;
+} 
+.topnav a.icon {
+  position: absolute;
+  display: block;
+  right: 0;
+  top: 10px;
+  left: 1430px;
+
+}
+.topnav #mylink {
+	display: none;
+}
+.btn {
+	left: 1230px;
+	top: 30px;
+	font-size: 25px;
+	font-weight: bold;
+}
+.img {
+	left: 1180px;
+	top: 30px;
+}
+.popup2 {
+	position: absolute;
+	width: 600px;
+	left: 200px; 
+}
+.text-1 {
+	
+	font-size: 40px;
+    font-weight: bold;
+}
+.text-2 {
+	font-size: 30px;
+	font-weight: bold;
+	top: 360px;
+}
+.text-3 {
+	top: 720px;
+	left: 600px;
+}
+.text-4 {
+	width: 1300px;
+	height: 500px;
+	margin-top: 4px; 
+	left: 150px;
+	top: 800px;
+	font-size: 20px;
+	line-height: 2;
+}
+.svg {
+	width: 100%;
+	height: 930px;
+}
+.Image-2 {
+	position: absolute;
+	left: 150px;
+}
+.Image-3 {
+	left: 740px;
+	top: 1320px;
+}
+.Play {
+	width: 100%
+	left: 270px;
+	top: 2500px;
+}
+.VideoTutorial {
+	width: 100%;
+	left: 0;
+	top: 3000px;
+}
+svg {
+	position: absolute;
+	top: 3400px;
+	width: 100%;
+	height: 1950px;
+}
+.text-6 {
+	position: relative;
+	top: 3450px; 
+	width: 100%;
+	flex-direction: column;
+	font-size: 50px;
+	font-weight: bold;
+}
+.text-7 {
+	position: relative;
+	width: 100%; 
+	top: 3470px;
+	line-height: 60px;
+	font-size: 37px;
+}
+.text-8 {
+	position: relative;
+	top: 3500px;
+	width: 100%;
+	line-height: 60px;
+	font-size: 50px;
+}
+.text-9 {
+	position: relative;
+	top: 3500px;
+	font-size: 37px;
+
+	line-height: 50px;
+}
+.line {
+	position: relative;
+	top: 3500px;
+}
+.Image-4 {
+    position: relative;
+    top: 3600px;
+    width: 45%;
+    
+}
+.Image-5 {
+	position: relative;
+	top: 3600px;
+	left: 10px;
+}
+.contact {
+	position: relative;
+	width: 100%;
+	top: 3750px;
+	left: 500px;
+	font-size: 100px;
+}
+.form {
+	position: relative;
+	left: 150px;
+	top: 3797px;
+}
+.form input {
+	position: relative;
+	width: 600px;
+	height: 50px;
+}
+.Message {
+	position: relative;
+	width: 100%;
+	left: 835px;
+	top: 3575px;
+}
+.message-input {
+	width: 550px;
+	height: 200px;
+}
+.button1 {
+	position: relative;
+	top: 3600px;
+	left: 1175px;
+	height: 80px;
+	font-size: 43px;
+}
+.footer {
+	position: relative;
+	width: 100%;
+	height: 100%;
+}
+.SVG {
+	position: relative;
+	width: 100%;
+	top: 3650px;
+	height: 200px;
+}
+.c {
+	position: relative;
+	width: 3%;
+	left: 500px;
+	top: 3500px;
+}
+.site-name {
+	position: relative;
+	width: 45%;
+	top: 3460px;
+	left: 550px;
+	font-size: 35px;
+}
+.social {
+	position: relative;
+	top: 3470px;
+	left: 650px;
+}
+.popup {
+	position: relative;
+	top: 3370px;
+	left: 1450px;
+}
+}
